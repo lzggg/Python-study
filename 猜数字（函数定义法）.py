@@ -24,4 +24,5 @@ def again():
 
 print("What am I?(1~1000)")
 from random import *
-again()
+
+1111
